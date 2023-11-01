@@ -1,0 +1,2 @@
+-r iris/backend/requirements.txt
+-r iris/frontend/requirements.txt
